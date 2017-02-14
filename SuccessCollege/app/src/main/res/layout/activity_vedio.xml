@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/sw600_60dp"
+        android:background="@drawable/top"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="@dimen/sw600_2dp">
+
+        <com.sinoangel.hkz.successcollege.widget.CircleImageView
+            android:layout_width="@dimen/sw600_60dp"
+            android:layout_height="@dimen/sw600_60dp"
+            android:src="@mipmap/headview" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/username"
+            android:textColor="@color/z_bai"
+            android:textSize="@dimen/sw600_30sp" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:weightSum="6"
+            android:id="@+id/l_left"
+            android:layout_width="@dimen/sw600_0dp"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:id="@+id/l_left_top"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/sw600_0dp">
+
+                <TextView
+                    android:text="TextView"
+                    android:textColor="@color/white"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView_top_left"
+                    android:layout_weight="1" />
+
+                <TextView
+                    android:id="@+id/textView_top_right"
+                    android:text="TextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/white"
+                    android:layout_weight="1" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:orientation="vertical"
+                android:id="@+id/l_left_bottom"
+                android:layout_weight="5"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/sw600_0dp">
+
+                <ImageView
+                    android:id="@+id/iv_toYK"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentStart="true" />
+
+                <ImageView
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/icon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="TextView"
+                    android:textColor="@color/white"
+                    android:background="@color/black"
+                    android:alpha="0.3"
+                    android:gravity="center"
+                    android:layout_alignParentBottom="true"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView_bottom_bottom" />
+
+            </RelativeLayout>
+        </LinearLayout>
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recyV"
+            android:layout_width="@dimen/sw600_300dp"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+
+</LinearLayout>

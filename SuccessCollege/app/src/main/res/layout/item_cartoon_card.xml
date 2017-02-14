@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!--<com.sinoangel.hkz.successcollege.widget.XCRoundRectImageView-->
+    <ImageView
+        android:id="@+id/iv1"
+        android:scaleType="fitXY"
+        android:layout_width="@dimen/sw600_290dp"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/sw600_10dp"
+        android:paddingLeft="@dimen/sw600_8dp"
+        />
+    <TextView
+        android:id="@+id/tv"
+        android:background="@color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</FrameLayout>

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\yp_tudou_encrypt_dialog.xml",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\yp_tudou_encrypt_dialog.xml"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\yp_player_container.xml",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\yp_player_container.xml"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\yp_detail_play_loading.xml",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\yp_detail_play_loading.xml"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\yp_plugin_detail_play_interact.xml",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\yp_plugin_detail_play_interact.xml"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vidqitem.xml",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\vidqitem.xml"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\yp_player_view.xml",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\yp_player_view.xml"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\yp_detail_retry.xml",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\yp_detail_retry.xml"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\yp_player_ad_youku.xml",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\yp_player_ad_youku.xml"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\yp_detail_bottom_play_control.xml",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\yp_detail_bottom_play_control.xml"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\yp_detail_play_title.xml",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\yp_detail_play_title.xml"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notify.xml",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\notify.xml"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\yp_detail_loading_info_page.xml",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\yp_detail_loading_info_page.xml"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\yp_youku_dialog_password_interact.xml",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\yp_youku_dialog_password_interact.xml"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\yp_detail_play_end_page.xml",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\yp_detail_play_end_page.xml"
+    }
+]

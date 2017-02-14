@@ -1,0 +1,46 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "24.0.1"
+
+    //默认配置，会同时应用到debug和release版本上
+    defaultConfig {
+        applicationId "com.sinoangel.hkz.successcollege"
+        minSdkVersion 19
+        targetSdkVersion 22
+        versionCode 1
+        versionName "1.0"
+    }
+
+    buildTypes {
+
+        //配置和release版本的一些参数
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    repositories {
+        flatDir {
+            dirs 'libs'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    //debugCompile 'com.squareup.leakcanary:leakcanary-android:1.4'
+    //releaseCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.4'
+    // compile project(path: ':YoukuPlayerOpenSDK')
+    compile(name: 'YoukuPlayerOpenSDK-release', ext: 'aar')
+    //compile 'com.alibaba:fastjson:1.2.+'
+    compile 'com.android.support:appcompat-v7:23.4.0'
+//    compile 'com.android.support:recyclerview-v7:23.4.0'
+    compile 'com.android.support:recyclerview-v7:21.+'
+    compile 'com.squareup.picasso:picasso:2.5.+'
+    compile 'com.yolanda.nohttp:nohttp:1.1.0'
+    compile 'com.yanzhenjie.nohttp:okhttp:1.1.0'
+    compile 'com.android.support:design:23.4.0'
+//    compile 'com.google.android.gms:play-services-appindexing:8.4.0'
+}

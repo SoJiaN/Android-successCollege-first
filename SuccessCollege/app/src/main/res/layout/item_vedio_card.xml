@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="@dimen/sw600_300dp"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="@dimen/sw600_300dp"
+        android:layout_height="@dimen/sw600_120dp">
+
+        <ImageView
+            android:id="@+id/iv_recy_vedio"
+            android:scaleType="fitXY"
+            android:layout_width="@dimen/sw600_180dp"
+            android:layout_height="@dimen/sw600_120dp"
+            android:paddingBottom="@dimen/sw600_10dp"
+            android:paddingLeft="@dimen/sw600_8dp"
+            />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:id="@+id/ll_recy_vedio"
+            android:layout_width="@dimen/sw600_120dp"
+            android:layout_height="@dimen/sw600_120dp">
+
+            <TextView
+
+                android:id="@+id/tv_recy_vedio_name"
+                android:textColor="@color/white"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/sw600_60dp" />
+
+            <TextView
+                android:id="@+id/tv_recy_vedio_duration"
+                android:textColor="@color/white"
+
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/sw600_60dp" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+</LinearLayout>

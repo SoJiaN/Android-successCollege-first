@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\player_logo_youku.png",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\player_logo_youku.png"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\vertical_logo.png",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\vertical_logo.png"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\seekbar_second_progress.9.png",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\seekbar_second_progress.9.png"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\vertical_icon_back.png",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\vertical_icon_back.png"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\icon_scrubbarslider.png",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\icon_scrubbarslider.png"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\icon_pause.png",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\icon_pause.png"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ad_close.png",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ad_close.png"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\seekbar_bkg.9.png",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\seekbar_bkg.9.png"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\hotpoint_img.9.png",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\hotpoint_img.9.png"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ad_bg_back.9.png",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ad_bg_back.9.png"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ad_icon_out.png",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ad_icon_out.png"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ad_icon_fullscreen.png",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ad_icon_fullscreen.png"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\icon_fullscreen.png",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\icon_fullscreen.png"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\icon_play.png",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\icon_play.png"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ad_icon_volume_off.png",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ad_icon_volume_off.png"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\seekbar_front_progress.9.png",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\seekbar_front_progress.9.png"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ad_icon_arrow.png",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ad_icon_arrow.png"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\full_icon_out.png",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\full_icon_out.png"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ad_icon_volume.png",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ad_icon_volume.png"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ad_bg_full.9.png",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ad_bg_full.9.png"
+    },
+    {
+        "merged": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\full_icon_back.png",
+        "source": "F:\\eclipse\\song_sinoangle\\SuccessCollege\\YoukuPlayerOpenSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\full_icon_back.png"
+    }
+]

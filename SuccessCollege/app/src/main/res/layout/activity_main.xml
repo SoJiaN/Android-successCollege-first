@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    tools:context=".module.core.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/sw600_60dp"
+        android:background="@drawable/top"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="@dimen/sw600_2dp">
+
+        <com.sinoangel.hkz.successcollege.widget.CircleImageView
+            android:layout_width="@dimen/sw600_60dp"
+            android:layout_height="@dimen/sw600_60dp"
+            android:src="@mipmap/headview" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/username"
+            android:textColor="@color/z_bai"
+            android:textSize="@dimen/sw600_30sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linear_show_MainAc"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/sw600_40dp">
+
+        <RadioGroup
+            android:id="@+id/rg_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/rb_main_1"
+                android:layout_width="@dimen/sw600_160dp"
+                android:layout_height="@dimen/sw600_90dp"
+                android:background="@drawable/rb_hlight"
+                android:button="@null"
+                android:paddingBottom="@dimen/sw600_10dp"
+                android:paddingLeft="@dimen/sw600_20dp"
+                android:paddingRight="@dimen/sw600_20dp"
+                android:paddingTop="@dimen/sw600_30dp"
+                android:gravity="center"
+                android:text="@string/rb_main1"
+                android:textColor="@color/z_bai"
+                android:textSize="@dimen/sw600_25sp" />
+
+            <RadioButton
+                android:id="@+id/rb_main_2"
+                android:layout_width="@dimen/sw600_160dp"
+                android:layout_height="@dimen/sw600_90dp"
+                android:background="@drawable/rb_hlight"
+                android:button="@null"
+                android:paddingBottom="@dimen/sw600_10dp"
+                android:paddingLeft="@dimen/sw600_20dp"
+                android:paddingRight="@dimen/sw600_20dp"
+                android:paddingTop="@dimen/sw600_30dp"
+                android:gravity="center"
+                android:text="@string/rb_main2"
+                android:textColor="@color/z_bai"
+                android:textSize="@dimen/sw600_25sp" />
+
+            <RadioButton
+                android:id="@+id/rb_main_3"
+                android:layout_width="@dimen/sw600_160dp"
+                android:layout_height="@dimen/sw600_90dp"
+                android:background="@drawable/rb_hlight"
+                android:button="@null"
+                android:paddingBottom="@dimen/sw600_10dp"
+                android:paddingLeft="@dimen/sw600_20dp"
+                android:paddingRight="@dimen/sw600_20dp"
+                android:paddingTop="@dimen/sw600_30dp"
+                android:gravity="center"
+                android:text="@string/rb_main3"
+                android:textColor="@color/z_bai"
+                android:textSize="@dimen/sw600_25sp" />
+
+            <RadioButton
+                android:id="@+id/rb_main_4"
+                android:layout_width="@dimen/sw600_160dp"
+                android:layout_height="@dimen/sw600_90dp"
+                android:background="@drawable/rb_hlight"
+                android:button="@null"
+                android:paddingBottom="@dimen/sw600_10dp"
+                android:paddingLeft="@dimen/sw600_20dp"
+                android:paddingRight="@dimen/sw600_20dp"
+                android:paddingTop="@dimen/sw600_30dp"
+                android:gravity="center"
+                android:text="@string/rb_main4"
+                android:textColor="@color/z_bai"
+                android:textSize="@dimen/sw600_25sp" />
+
+            <RadioButton
+                android:id="@+id/rb_main_5"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/sw600_90dp"
+                android:background="@drawable/rb_hlight"
+                android:button="@null"
+                android:paddingBottom="@dimen/sw600_10dp"
+                android:paddingLeft="@dimen/sw600_20dp"
+                android:paddingRight="@dimen/sw600_20dp"
+                android:paddingTop="@dimen/sw600_30dp"
+                android:gravity="center"
+                android:text="@string/rb_main5"
+                android:textColor="@color/z_bai"
+                android:textSize="@dimen/sw600_25sp" />
+
+        </RadioGroup>
+
+        <FrameLayout
+            android:id="@+id/fl_box"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/sw600_380dp"
+            android:layout_marginTop="@dimen/sw600_10dp" />
+
+    </LinearLayout>
+
+</LinearLayout>

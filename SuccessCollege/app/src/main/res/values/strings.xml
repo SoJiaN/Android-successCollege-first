@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">成才学院</string>
+    <string name="username">Rachel Wu</string>
+    <string name="rb_main1">Home</string>
+    <string name="rb_main2">Cartoon</string>
+    <string name="rb_main3">Subject</string>
+    <string name="rb_main4">Lift Style</string>
+    <string name="rb_main5">Art &amp; Culture</string>
+    <string name="title_activity_show">ShowActivity</string>
+</resources>

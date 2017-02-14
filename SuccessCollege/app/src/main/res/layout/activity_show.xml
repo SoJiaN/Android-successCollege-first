@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@drawable/background"
+    android:clipChildren="false"
+    android:id="@+id/linear_show"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/sw600_60dp"
+        android:background="@drawable/top"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="@dimen/sw600_2dp">
+
+        <com.sinoangel.hkz.successcollege.widget.CircleImageView
+            android:layout_width="@dimen/sw600_60dp"
+            android:layout_height="@dimen/sw600_60dp"
+            android:src="@mipmap/headview" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/username"
+            android:textColor="@color/z_bai"
+            android:textSize="@dimen/sw600_30sp" />
+    </LinearLayout>
+
+    <!--<RelativeLayout-->
+        <!--android:id="@+id/show_li_re"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent">-->
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewpager_show"
+            android:layout_height="match_parent"
+            android:layout_width="wrap_content"
+            android:clipChildren="false"
+            android:layout_marginTop="@dimen/sw600_25dp"
+            android:layout_marginBottom="@dimen/sw600_0dp"
+            android:layout_marginLeft="@dimen/sw600_200dp"
+            android:layout_marginRight="@dimen/sw600_200dp"
+            android:layout_gravity="center" >
+
+        </android.support.v4.view.ViewPager>
+    <!--</RelativeLayout>-->
+
+</LinearLayout>
